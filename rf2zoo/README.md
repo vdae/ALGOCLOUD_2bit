@@ -1,0 +1,2 @@
+Replace this File with the PoP-Level ISP Maps from https://research.cs.washington.edu/networking/rocketfuel/
+converted with the rocketfuel2zoo Converter Script from https://topology-zoo.org/toolset.html
